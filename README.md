@@ -39,9 +39,57 @@
 ✔ Always learning new technologies
 
 
-<!-- ================= TECH STACK ================= --> 
-<h3 align="center">🛠️ Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,django,mysql,mongodb,git,github,docker,tailwind,tensorflow&perline=7" /> </p>
-<!-- ================= PROJECTS ================= --> <h3 align="center">📌 Featured Projects</h3> <table align="center"> <tr> <th>Project</th> <th>Description</th> <th>Tech</th> </tr> <tr> <td> <a href="https://github.com/fahim-fardin-1045/php_zen-blog"> Zen Blog </a> </td> <td>Blogging platform with admin panel</td> <td>PHP, JavaScript, CSS</td> </tr> <tr> <td> <a href="https://github.com/fahim-fardin-1045/hotel_booking"> Hotel Management System </a> </td> <td>Online hotel booking & management system</td> <td>PHP, SCSS, JavaScript</td> </tr> </table>
-<!-- ================= STATS ================= --> <h3 align="center">📊 GitHub Stats</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fahim-fardin-1045&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-fardin-1045&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-fardin-1045&layout=compact&theme=tokyonight"/> </p>
-<!-- ================= TROPHIES ================= --> <h3 align="center">🏆 GitHub Trophies</h3> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fahim-fardin-1045&theme=tokyonight&no-frame=true&row=1" /> </p>
-<!-- ================= VISITORS ================= --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=fahim-fardin-1045&label=Profile%20Views&color=0e75b6&style=flat" /> </p> <p align="center"> ⭐ <strong>Thanks for visiting my profile!</strong> </p> <!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0e75b6&height=120&section=footer" /> </p>
+<!-- ================= TECH STACK ================= -->
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<h4 align="center">💻 Programming Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,go,kotlin" />
+</p>
+
+<h4 align="center">🌐 Frontend Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,d3,figma" />
+</p>
+
+<h4 align="center">⚙️ Backend & Frameworks</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,spring,dotnet" />
+</p>
+
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="45"/>
+</p>
+
+<h4 align="center">☁️ DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bash" />
+</p>
+
+<h4 align="center">🧠 AI / ML & Data Science</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
+</p>
+
+<h4 align="center">🧪 Tools & Utilities</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="45"/>
+</p>
+
+<!-- ================= PROJECTS ================= --> 
+<h3 align="center">📌 Featured Projects</h3> <table align="center"> <tr> <th>Project</th> <th>Description</th> <th>Tech</th> </tr> <tr> <td> <a href="https://github.com/fahim-fardin-1045/php_zen-blog"> Zen Blog </a> </td> <td>Blogging platform with admin panel</td> <td>PHP, JavaScript, CSS</td> </tr> <tr> <td> <a href="https://github.com/fahim-fardin-1045/hotel_booking"> Hotel Management System </a> </td> <td>Online hotel booking & management system</td> <td>PHP, SCSS, JavaScript</td> </tr> </table>
+
+<!-- ================= STATS ================= -->
+<h3 align="center">📊 GitHub Stats</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fahim-fardin-1045&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-fardin-1045&theme=tokyonight" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-fardin-1045&layout=compact&theme=tokyonight"/> </p>
+
+<!-- ================= TROPHIES ================= --> 
+<h3 align="center">🏆 GitHub Trophies</h3> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fahim-fardin-1045&theme=tokyonight&no-frame=true&row=1" /> </p>
+
+<!-- ================= VISITORS ================= --> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fahim-fardin-1045&label=Profile%20Views&color=0e75b6&style=flat" /> </p> <p align="center"> ⭐ <strong>Thanks for visiting my profile!</strong> </p> <!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0e75b6&height=120&section=footer" /> </p>
