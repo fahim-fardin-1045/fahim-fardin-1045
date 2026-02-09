@@ -1,6 +1,20 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:3b82f6&height=220&section=header&text=Fahim%20Fardin&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &height=240
+    &text=Fahim%20Fardin
+    &fontSize=44
+    &fontColor=00ff99
+    &fontAlignY=35
+    &animation=fadeIn
+    &desc=Building%20Scalable%20Software
+    &descAlignY=55
+    &descSize=18
+    &color=0:020024,50:090979,100:00d4ff" />
 </p>
 
 <p align="center">
