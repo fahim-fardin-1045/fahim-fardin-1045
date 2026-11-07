@@ -77,7 +77,7 @@ I'm a software developer based in **Dhaka, Bangladesh**, focused on **full-stack
 | **Hotel Booking System** | Hotel room browsing and booking, reservations, room management, and admin workflows. | PHP, MySQL, PDO, Bootstrap, SCSS | [GitHub](https://github.com/fahim-fardin-1045/hotel_booking) |
 | **ZenBlog — Content Management System** | Blog publishing with authors, categories, search, image uploads, and comment moderation. | PHP, MySQL, JavaScript, Bootstrap | [GitHub](https://github.com/fahim-fardin-1045/php_zen-blog) |
 
-<h4 align="center">Additional Projects</h4>
+<h4 align="center">Additional Projects from My CV</h4>
 
 | Project | What It Does | Tech Stack |
 | :--- | :--- | :--- |
@@ -97,16 +97,17 @@ I'm a software developer based in **Dhaka, Bangladesh**, focused on **full-stack
 
 ---
 
-<!-- LeetCode: Replace both YOUR_LEETCODE_USERNAME values, then uncomment this block. -->
-<!--
 <h3 align="center">🧩 LeetCode & Problem Solving</h3>
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity&border=0" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/Fahim_Fardin_1045/">
+    <img src="https://leetcard.jacoblin.cool/Fahim_Fardin_1045?theme=dark&font=Fira%20Code&ext=activity&border=0" alt="Fahim Fardin's LeetCode statistics" />
   </a>
 </p>
-
--->
+<p align="center">
+  <a href="https://leetcode.com/u/Fahim_Fardin_1045/">
+    <img src="https://img.shields.io/badge/LeetCode-Fahim__Fardin__1045-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode profile" />
+  </a>
+</p>
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
