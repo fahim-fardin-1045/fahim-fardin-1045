@@ -75,7 +75,7 @@ I'm a software developer based in **Dhaka, Bangladesh**, focused on **full-stack
 | **Hotel Booking System** | Room browsing, booking records, booking confirmation, and admin workflows. | PHP, MySQL, PDO, Bootstrap, SCSS | [GitHub](https://github.com/fahim-fardin-1045/hotel_booking) |
 | **ZenBlog — Content Management System** | Blog publishing with categories, search, image uploads, and comment moderation. | PHP, MySQL, JavaScript, Bootstrap | [GitHub](https://github.com/fahim-fardin-1045/php_zen-blog) |
 
-<h4 align="center">Additional Projects from My CV</h4>
+<h4 align="center">Additional Projects</h4>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
