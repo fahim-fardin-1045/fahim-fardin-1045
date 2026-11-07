@@ -75,7 +75,7 @@ I'm a software developer based in **Dhaka, Bangladesh**, focused on **full-stack
 | **Hotel Booking System** | Room browsing, booking records, booking confirmation, and admin workflows. | PHP, MySQL, PDO, Bootstrap, SCSS | [GitHub](https://github.com/fahim-fardin-1045/hotel_booking) |
 | **ZenBlog — Content Management System** | Blog publishing with categories, search, image uploads, and comment moderation. | PHP, MySQL, JavaScript, Bootstrap | [GitHub](https://github.com/fahim-fardin-1045/php_zen-blog) |
 
-<h4 align="center">Additional Projects</h4>
+<h4 align="center">Additional Projects from My CV</h4>
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -105,15 +105,30 @@ I'm a software developer based in **Dhaka, Bangladesh**, focused on **full-stack
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center"><strong>Languages, coding hours, and contribution overview</strong></p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahim-fardin-1045&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com/?user=fahim-fardin-1045&theme=tokyonight&hide_border=true" height="175" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahim-fardin-1045&theme=tokyonight" width="32%" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahim-fardin-1045&theme=tokyonight" width="32%" alt="Top languages by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahim-fardin-1045&theme=tokyonight&timeZone=Asia%2FDhaka" width="32%" alt="Commit activity by time in Dhaka timezone" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-fardin-1045&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahim-fardin-1045&theme=tokyonight" width="48%" alt="GitHub statistics including stars and forks" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahim-fardin-1045&theme=tokyonight" width="48%" alt="GitHub contribution history" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fahim-fardin-1045&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 </p>
 
 ---
+
+<h3 align="center">🧊 3D Contribution Calendar</h3>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub contribution calendar" />
+</p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
